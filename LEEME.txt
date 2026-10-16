@@ -1,0 +1,10 @@
+FM PRO MANAGER 2026 — PAQUETE PROFESIONAL
+
+Contenido:
+- FM_PRO_Manager_2026_Presentacion_Profesional.html: presentación web mejorada y adaptable a computador, tableta y móvil.
+
+Cómo abrir:
+1. Extrae el archivo ZIP.
+2. Abre el archivo HTML con Chrome, Edge, Firefox u otro navegador moderno.
+
+Nota: La presentación está preparada como archivo HTML independiente. Si deseas incorporar más logotipos, imágenes u otros recursos de un archivo ZIP/RAR adicional, adjúntalo para integrarlos.
